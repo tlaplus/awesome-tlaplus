@@ -75,11 +75,12 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 ## Scientific papers
 
-* [Lamport's TLA+ publications](https://lamport.azurewebsites.net/tla/papers.html?back-link=more-stuff.html)
-* [Stephan Merz's publications](https://members.loria.fr/SMerz/papers.html)
 * Search [Arxiv](http://search.arxiv.org:8081/?query=tla&in=grp_cs), [DBLP](https://dblp.uni-trier.de/search?q=tla), ...
 
 ### Theory
+
+* [Lamport's TLA+ publications](https://lamport.azurewebsites.net/tla/papers.html?back-link=more-stuff.html)
+* [Stephan Merz's publications](https://members.loria.fr/SMerz/papers.html)
 
 ### Tools
 
