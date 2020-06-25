@@ -59,6 +59,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 | name | description |  
 | --- | --- | 
 | [TLA+ in TIDB](https://github.com/pingcap/tla-plus) | verify the distributed consensus algorithm : Raft & the implementation of distributed transaction. |
+| [Generating All Combinations and Partitions](https://github.com/tlaplus/tlaplus/blob/master/tlatools/org.lamport.tlatools/src/tlc2/value/impl/SubsetValue.tla) | Spec of an [algorithm](https://github.com/tlaplus/tlaplus/blob/f8f057f3e019026e478369c2b82e20677c920335/tlatools/org.lamport.tlatools/src/tlc2/value/impl/SubsetValue.tla#L28-L33) in Knuth's TAOCP. It's [Java implemenation](https://github.com/tlaplus/tlaplus/blob/f8f057f3e019026e478369c2b82e20677c920335/tlatools/org.lamport.tlatools/src/tlc2/value/impl/SubsetValue.java#L513-L588) is used by TLC. |
 
 ## TLA+ Video Resources
 
