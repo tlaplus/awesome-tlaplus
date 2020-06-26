@@ -4,11 +4,11 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 ## WebSites
 
-* Homepage: https://lamport.azurewebsites.net/tla/tla.html
-* TLA+ Tools: https://github.com/tlaplus
-* TLA Proof System: https://tla.msr-inria.inria.fr/tlaps/content/Home.html
-* TLA+ example: https://github.com/tlaplus/Examples
-* Learn TLA+: https://learntla.com/introduction/
+* Homepage: http://www.tlapl.us  (https://lamport.azurewebsites.net/tla/tla.html)
+* TLA+ Project: https://project.tlapl.us  (https://github.com/tlaplus)
+* TLA+ Community Modules: https://modules.tlapl.us/ (https://github.com/tlaplus/CommunityModules)
+* TLA+ Examples: https://examples.tlapl.us  (https://github.com/tlaplus/Examples)
+* Learn TLA+ (PlusCal): https://learntla.com/introduction/
 * News Aggregator: https://wall.tlapl.us
 
 ## Discussions
@@ -19,8 +19,8 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 ## Tools
 
-* Toolbox & TLC: https://github.com/tlaplus/tlaplus
-* TLAPM: https://github.com/tlaplus/tlapm
+* Toolbox & TLC: https://tools.tlapl.us (https://github.com/tlaplus/tlaplus)
+* TLAPM: https://proofs.tlapl.us (https://github.com/tlaplus/tlapm)
 * Apalache: https://github.com/konnov/apalache
 * VSCode-extension: https://github.com/alygin/vscode-tlaplus
 * Jupyter notebook: https://github.com/kelvich/tlaplus_jupyter
