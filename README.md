@@ -94,7 +94,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 * [eXtreme Modelling in Practice](https://arxiv.org/abs/2006.00915)
 * [Specifying and Model Checking Workflows of Single Page Applications with TLA+](https://arxiv.org/abs/2005.05627)
 
-### (University) courses teaching (with) TLA+
+## (University) courses teaching (with) TLA+
 
 * [SUNY Buffalo: CSE 4/586 Distributed Systems](https://cse.buffalo.edu/~demirbas/course.pdf)  ([Notes](http://muratbuffalo.blogspot.com/2015/01/my-experience-with-using-tla-in.html))
 * [Portland State: CS410/510 Practical Specification and Verification](https://web.cecs.pdx.edu/~apt/cs510spec/)
