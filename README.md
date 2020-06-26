@@ -23,6 +23,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 * TLAPM: https://proofs.tlapl.us (https://github.com/tlaplus/tlapm)
 * Apalache: https://github.com/konnov/apalache
 * VSCode-extension: https://github.com/alygin/vscode-tlaplus
+* Better-comments (VSCode): https://github.com/alygin/better-comments
 * Jupyter notebook: https://github.com/kelvich/tlaplus_jupyter
 * TLC command-line wrapper: https://github.com/pmer/tla-bin
 
