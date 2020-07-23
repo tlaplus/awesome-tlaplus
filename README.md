@@ -53,7 +53,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 | [Building A "Simple" Distributed System](https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-formal-verification) | Rebalanser - distributed resource allocation library. |
 | [Train Sidings – A TLA+ Example](https://www.heinbockel.eu/2019/12/08/train-sidings-a-tla-example/) | Railroad line where two trains can pass each other. |
 | [Azure Cosmos TLA+ specifications](https://github.com/Azure/azure-cosmos-tla) | The consistency levels offered by Azure Cosmos DB (also see [Murat Demirbas' talk](https://www.microsoft.com/en-us/research/video/tla-specifications-of-the-consistency-guarantees-provided-by-cosmos-db/)). |
-
+| [Modeling Streamlet in TLA+](http://muratbuffalo.blogspot.com/2020/07/modeling-streamlet-in-tla.html) | A PlusCal spec of a crash fault-tolerant variant of the Streamlet blockchain protocol. |
 
 ## Real-world specs (not part of [TLA+ Examples](https://github.com/tlaplus/examples))
 
