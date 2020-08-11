@@ -26,6 +26,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 * Better-comments (VSCode): https://github.com/alygin/better-comments
 * Jupyter notebook: https://github.com/kelvich/tlaplus_jupyter
 * TLC command-line wrapper: https://github.com/pmer/tla-bin
+* Emacs mode: https://github.com/ratish-punnoose/tla-mode
 
 ## Books
 
