@@ -1,6 +1,21 @@
-# awesome-tlaplus
+# Awesome TLA+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[<img src="tlaplus-logo.png" align="right" width="100" title="TLA+">](http://www.tlapl.us)
+
 
 TLA+ is a formal specification and verification language to help engineers design, specify, reason about, and verify complex software and hardware systems. It is widely used to verify the algorithms in distributed systems.
+
+## Contents
+
+- [WebSites](#websites)
+- [Discussions](#discussions)
+- [Tools](#tools)
+- [Books](#books)
+- [TLA+ blog posts and articles](#tla-blog-posts-and-articles)
+- [Real-world specs](#real-world-specs-not-part-of-tla-examples)
+- [TLA+ Video Resources](#tla-video-resources)
+- [Scientific papers](#scientific-papers)
+- [(University) courses teaching (with) TLA+](#university-courses-teaching-with-tla)
 
 ## WebSites
 
