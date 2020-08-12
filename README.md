@@ -16,6 +16,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 * google groups: https://groups.google.com/forum/#!forum/tlaplus
 * reddit: https://www.reddit.com/r/tlaplus/
 * twitter: https://twitter.com/tlaplus
+* stackoverflow: https://stackoverflow.com/questions/tagged/tla%2b
 
 ## Tools
 
