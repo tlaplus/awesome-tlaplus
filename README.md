@@ -38,7 +38,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 ### Verification
 
 * TLC: https://tools.tlapl.us (https://github.com/tlaplus/tlaplus)
-* TLAPM (proof system): https://proofs.tlapl.us (https://github.com/tlaplus/tlapm)
+* TLAPM: https://proofs.tlapl.us (https://github.com/tlaplus/tlapm)
 * Apalache: https://github.com/informalsystems/apalache
 
 ### IDEs
