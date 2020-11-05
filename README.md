@@ -101,6 +101,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 * [Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8)
 * [Formal verification applied](https://www.youtube.com/watch?v=l9XZYI3jta0)
 * [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q)
+* [Building confidence in concurrent code with a model checker (aka TLA+ for programmers)](https://youtu.be/tqwcz-Yt9gQ)
 
 ## Scientific papers
 
