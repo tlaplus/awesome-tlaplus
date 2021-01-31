@@ -129,3 +129,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 * [SUNY Buffalo: CSE 4/586 Distributed Systems](https://cse.buffalo.edu/~demirbas/course.pdf)  ([Notes](http://muratbuffalo.blogspot.com/2015/01/my-experience-with-using-tla-in.html))
 * [Portland State: CS410/510 Practical Specification and Verification](https://web.cecs.pdx.edu/~apt/cs510spec/)
 * [University of Wellington: SWEN421 - Formal Software Engineering](https://ecs.wgtn.ac.nz/Courses/SWEN421_2020T1/CourseOutline)
+* [Bordeaux INP: IF311 Formal Software Design](http://herbrete.vvv.enseirb-matmeca.fr/IF311/)
+* [TU Kaiserslautern: Programming Distributed Systems](https://pl.cs.uni-kl.de/homepage/de/teaching/ss19/progdist/)
+* [University of Iowa: CS5620f15 Distributed Systems and Algorithms](https://weblog.cs.uiowa.edu/cs5620f15/)
+* [University of Tartu: Systems Modelling](https://courses.cs.ut.ee/2019/SM/)
