@@ -36,6 +36,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 ## Users
 
 * Microsoft
+* [Zilliqa Research](https://www.zilliqa.com)
 
 ## Tools
 
