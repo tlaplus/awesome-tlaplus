@@ -37,6 +37,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 * Microsoft
 * [Informal Systems](https://informal.systems/): TLA+ for protocol specification, model checking, model-based testing, and security audits of blockchains
+* [Zilliqa Research](https://www.zilliqa.com)
 
 ## Tools
 
