@@ -9,6 +9,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 - [WebSites](#websites)
 - [Discussions](#discussions)
+- [Users](#users)
 - [Tools](#tools)
 - [Books](#books)
 - [TLA+ blog posts and articles](#tla-blog-posts-and-articles)
