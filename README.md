@@ -33,6 +33,10 @@ TLA+ is a formal specification and verification language to help engineers desig
 * twitter: https://twitter.com/tlaplus
 * stackoverflow: https://stackoverflow.com/questions/tagged/tla%2b
 
+## Users
+
+* Microsoft
+
 ## Tools
 
 ### Verification
