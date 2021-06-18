@@ -37,6 +37,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 * Microsoft
 * [Zilliqa Research](https://www.zilliqa.com)
+* [Informal Systems](https://informal.systems/): TLA+ for protocol specification, model checking, model-based testing, and security audits of blockchains
 
 ## Tools
 
@@ -44,7 +45,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 * TLC: https://tools.tlapl.us (https://github.com/tlaplus/tlaplus)
 * TLAPM: https://proofs.tlapl.us (https://github.com/tlaplus/tlapm)
-* Apalache: https://github.com/informalsystems/apalache
+* Apalache: https://apalache.informal.systems/
 
 ### IDEs
 
@@ -94,6 +95,8 @@ TLA+ is a formal specification and verification language to help engineers desig
 | --- | --- | 
 | [TLA+ in TIDB](https://github.com/pingcap/tla-plus) | verify the distributed consensus algorithm : Raft & the implementation of distributed transaction. |
 | [Generating All Combinations and Partitions](https://github.com/tlaplus/tlaplus/blob/master/tlatools/org.lamport.tlatools/src/tlc2/value/impl/SubsetValue.tla) | Spec of an [algorithm](https://github.com/tlaplus/tlaplus/blob/f8f057f3e019026e478369c2b82e20677c920335/tlatools/org.lamport.tlatools/src/tlc2/value/impl/SubsetValue.tla#L28-L33) in Knuth's TAOCP. It's [Java implemenation](https://github.com/tlaplus/tlaplus/blob/f8f057f3e019026e478369c2b82e20677c920335/tlatools/org.lamport.tlatools/src/tlc2/value/impl/SubsetValue.java#L513-L588) is used by TLC. |
+| [TendermintAcc](https://github.com/tendermint/spec/blob/master/spec/light-client/accountability/TendermintAcc_004_draft.tla) | TLA+ specification of Tendermint consensus tuned for safety and fork accountability properties, including an inductive invariant | 
+| [Tendermint light client](https://github.com/tendermint/spec/blob/master/spec/light-client/verification/Lightclient_003_draft.tla) | TLA+ specification of the Tendermint light client | 
 
 ## TLA+ Video Resources
 
