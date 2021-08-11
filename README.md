@@ -89,6 +89,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 | [Azure Cosmos TLA+ specifications](https://github.com/Azure/azure-cosmos-tla) | The consistency levels offered by Azure Cosmos DB (also see [Murat Demirbas' talk](https://www.microsoft.com/en-us/research/video/tla-specifications-of-the-consistency-guarantees-provided-by-cosmos-db/)). |
 | [Modeling Streamlet in TLA+](http://muratbuffalo.blogspot.com/2020/07/modeling-streamlet-in-tla.html) | A PlusCal spec of a crash fault-tolerant variant of the Streamlet blockchain protocol. |
 | [Using TLA+ in the Real World to Understand a Glibc Bug](https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/) | Lifting code to the specification level to study a complex concurrency bug. |
+| [tla-specs](https://github.com/Alexander-N/tla-specs) | Collection of documented TLA+ explorations. |
 
 ## Real-world specs (not part of [TLA+ Examples](https://github.com/tlaplus/examples))
 
