@@ -37,7 +37,9 @@ TLA+ is a formal specification and verification language to help engineers desig
 ## Users
 
 * Microsoft
+* [Atomix](https://github.com/atomix)
 * [Informal Systems](https://informal.systems/): TLA+ for protocol specification, model checking, model-based testing, and security audits of blockchains
+* [Open Networking Foundation](https://opennetworking.org)
 * [Zilliqa Research](https://www.zilliqa.com)
 
 ## Tools
@@ -95,10 +97,18 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 | name | description |  
 | --- | --- | 
-| [TLA+ in TIDB](https://github.com/pingcap/tla-plus) | verify the distributed consensus algorithm : Raft & the implementation of distributed transaction. |
+| [Distributed Lock](https://github.com/kuujo/onos-tlaplus/blob/master/DistributedLock/DistributedLock.tla) | TLA+ specification of a replicated state machine for distributed locking |
 | [Generating All Combinations and Partitions](https://github.com/tlaplus/tlaplus/blob/master/tlatools/org.lamport.tlatools/src/tlc2/value/impl/SubsetValue.tla) | Spec of an [algorithm](https://github.com/tlaplus/tlaplus/blob/f8f057f3e019026e478369c2b82e20677c920335/tlatools/org.lamport.tlatools/src/tlc2/value/impl/SubsetValue.tla#L28-L33) in Knuth's TAOCP. It's [Java implemenation](https://github.com/tlaplus/tlaplus/blob/f8f057f3e019026e478369c2b82e20677c920335/tlatools/org.lamport.tlatools/src/tlc2/value/impl/SubsetValue.java#L513-L588) is used by TLC. |
+| [Just-in-Time Paxos](https://github.com/kuujo/just-in-time-paxos) | TLA+ specification of an experimental consensus protocol that relies on high-precision clock synchronization to order proposals |
+| [Multi-primary Replication Protocol](https://github.com/kuujo/onos-tlaplus/blob/master/FlowRuleStore/FlowRuleStore.tla) | TLA+ specification of a multi-primary replication protocol created for [ONOS](https://opennetworking.org/onos/) |
+| [P4Runtime Protocol Specification](https://github.com/kuujo/onos-tlaplus/tree/master/P4RuntimeElection) | TLA+ specification of the [P4Runtime](https://github.com/p4lang/p4runtime) API that was used to demonstrate and fix safety violations in the protocol |
+| [Raft Consensus Algorithm](https://github.com/ongardie/raft.tla) | TLA+ specification of the Raft consensus algorithm |
+| [Raft Consensus Algorithm w/ Client](https://github.com/atomix/atomix-tlaplus/tree/master/Raft) | TLA+ specification of the Raft consensus algorithm and linearizable client |
+| [Sequentially Consistent Raft Streams](https://github.com/atomix/atomix-tlaplus/blob/master/ClientSequencer/ClientSequencer.tla) | TLA+ specification of an algorithm for sequentially consistent streaming responses from a Raft cluster |
+| [SWIM Membership Protocol](https://github.com/atomix/atomix-tlaplus/blob/master/SWIM/SWIM.tla) | TLA+ specification of the Scalable Weakly-consistent Infection-style Membership (SWIM) protocol |
 | [TendermintAcc](https://github.com/tendermint/spec/blob/master/spec/light-client/accountability/TendermintAcc_004_draft.tla) | TLA+ specification of Tendermint consensus tuned for safety and fork accountability properties, including an inductive invariant | 
-| [Tendermint light client](https://github.com/tendermint/spec/blob/master/spec/light-client/verification/Lightclient_003_draft.tla) | TLA+ specification of the Tendermint light client | 
+| [Tendermint Light Client](https://github.com/tendermint/spec/blob/master/spec/light-client/verification/Lightclient_003_draft.tla) | TLA+ specification of the Tendermint light client | 
+| [TLA+ in TIDB](https://github.com/pingcap/tla-plus) | verify the distributed consensus algorithm : Raft & the implementation of distributed transaction. |
 
 ## TLA+ Video Resources
 
