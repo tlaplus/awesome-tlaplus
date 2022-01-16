@@ -57,6 +57,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 * Jupyter notebook: https://github.com/kelvich/tlaplus_jupyter
 * Emacs mode: https://github.com/ratish-punnoose/tla-mode
 * Another Emacs mode: https://git.sdf.org/bch/tlamode/
+* Intellij IDEA plugin: https://github.com/ocadaruma/tlaplus-intellij-plugin
 
 ### Misc
 
