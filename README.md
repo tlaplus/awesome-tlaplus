@@ -24,7 +24,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 * TLA+ Project: https://project.tlapl.us  (https://github.com/tlaplus)
 * TLA+ Community Modules: https://modules.tlapl.us/ (https://github.com/tlaplus/CommunityModules)
 * TLA+ Examples: https://examples.tlapl.us  (https://github.com/tlaplus/Examples)
-* Learn TLA+ (PlusCal): https://learntla.com/introduction/
+* Learn TLA+ (PlusCal): https://learntla.com/ (https://learntla.com/)
 * News Aggregator: https://wall.tlapl.us
 
 ## Discussions
@@ -76,14 +76,14 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 | name | description |  
 | --- | --- | 
-| [AWS and TLA+](http://lamport.azurewebsites.net/tla/amazon.html) | Use of Formal Methods at Amazon Web Services |
+| [AWS and TLA+](https://lamport.azurewebsites.net/tla/amazon-excerpt.html) | Use of Formal Methods at Amazon Web Services |
 | [Batch Installer](https://medium.com/espark-engineering-blog/formal-methods-in-practice-8f20d72bce4f) | Sending async batches of commands. |
-| [Redux](https://www.hillelwayne.com/post/tla-redux/) | Redux reducers with verifying a temporal property. |
-| [Zero Downtime Deployments](https://www.hillelwayne.com/post/modeling-deployments/) | A simple model of a deploying new code to servers where at least one server is always available to clients, and all available servers show the same code version. |
+| [Redux](https://www.hillelwayne.com/tla-redux/) | Redux reducers with verifying a temporal property. |
+| [Zero Downtime Deployments](https://www.hillelwayne.com/modeling-deployments/) | A simple model of a deploying new code to servers where at least one server is always available to clients, and all available servers show the same code version. |
 | [Trading Algorithm](https://www.linkedin.com/pulse/lamports-tla-spec-testing-why-youre-using-nira-amit/) | Trading boths executing trades in a simulated market, showing how it’s susceptible to flash crashes. |
 | [Detecting Linked-List Cycles](https://lorinhochstein.wordpress.com/2017/10/16/the-tortoise-and-the-hare-in-tla/) | Finding cycles in linked lists. |
 | [Replicated Storage](http://muratbuffalo.blogspot.com/2016/11/modeling-replicated-storage-system-in.html) | Replicated storage system with a quorum. |
-| [Rate Limiter](https://learntla.com/concurrency/example/) | Independent workers hitting a rate-limited API. |
+| [Rate Limiter](https://old.learntla.com/concurrency/example/) | Independent workers hitting a rate-limited API. |
 | [Thread Pool](http://www.cs.unh.edu/~charpov/programming-tlabuffer.html) | Multiple reader and writer threads sharing a bounded queue, discovering deadlocks. |
 | [Bank Transfer](https://learntla.com/introduction/example/) | Specifying a bank transfer with overdraft protection. |
 | [Finding bugs in systems through formalization](https://andy.hammerhartes.de/finding-bugs-in-systems-through-formalization.html) | Ensuring distributed jobs go from “pending” to “completed”. |
