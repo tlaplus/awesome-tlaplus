@@ -147,6 +147,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 ## (University) courses teaching (with) TLA+
 
+* [EECS4315 Mission-Critical Systems (Winter 2023 - Section Z)](https://www.eecs.yorku.ca/~jackie/teaching/lectures/index.html#EECS4315_W23)
 * [SUNY Buffalo: CSE 4/586 Distributed Systems](https://cse.buffalo.edu/~demirbas/course.pdf)  ([Notes](http://muratbuffalo.blogspot.com/2015/01/my-experience-with-using-tla-in.html))
 * [Portland State: CS410/510 Practical Specification and Verification](https://web.cecs.pdx.edu/~apt/cs510spec/)
 * [University of Wellington: SWEN421 - Formal Software Engineering](https://ecs.wgtn.ac.nz/Courses/SWEN421_2020T1/CourseOutline)
