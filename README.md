@@ -156,3 +156,4 @@ TLA+ is a formal specification and verification language to help engineers desig
 * [University of Iowa: CS5620f15 Distributed Systems and Algorithms](https://weblog.cs.uiowa.edu/cs5620f15/)
 * [University of Tartu: Systems Modelling](https://courses.cs.ut.ee/2019/SM/)
 * [University of Colorado: Distributed Systems Verification](https://gowthamk.github.io/csci7000_s21/)
+* [University of California, San Diego: CSE 128 Spring 2005 Concurrency](https://cseweb.ucsd.edu/classes/sp05/cse128/)
