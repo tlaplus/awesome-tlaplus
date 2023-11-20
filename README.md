@@ -139,6 +139,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 * [Verifying Safety Properties with the TLA+ Proof System](http://link.springer.com/10.1007/978-3-642-14203-1_12)
 * [TLA+ model checking made symbolic](https://dl.acm.org/doi/10.1145/3360549)
 * [The TLA+ Toolbox](https://arxiv.org/abs/1912.10633)
+* [Compiling Distributed System Models with PGo](https://dl.acm.org/doi/10.1145/3575693.3575695), see also [PGo](https://distcompiler.github.io)'s homepage.
 
 ### Application
 
