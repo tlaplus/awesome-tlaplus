@@ -64,19 +64,19 @@ TLA+ is a formal specification and verification language to help engineers desig
 * Better-comments (VSCode): https://github.com/alygin/better-comments
 * TLC command-line wrapper: https://github.com/pmer/tla-bin
 
+### Parsers
+
+* [SANY](https://github.com/tlaplus/tlaplus/tree/master/tlatools/org.lamport.tlatools/src/tla2sany) (Syntactic Analyzer): A parser and syntax checker for TLA+ specifications
+* [TLAPS](https://github.com/tlaplus/tlapm): A system for mechanically checking proofs written in TLA+
+* [tree-sitter-tlaplus](https://github.com/tlaplus-community/tree-sitter-tlaplus): A tree-sitter grammar for TLA⁺ and PlusCal 
+* [tlapy](https://github.com/johnyf/tlapy): A collection of Python tools for working with TLA+ specifications
+
 ## Books
 
 * [Specifying Systems](https://lamport.azurewebsites.net/tla/book.html) (freely available)
 * [Hyperbook](https://lamport.azurewebsites.net/tla/hyperbook.html) (freely available)
 * [Practical TLA+](https://www.apress.com/gp/book/9781484238288)
 * [TLA+ in Practice and Theory](https://pron.github.io/posts/tlaplus_part1) (freely available)
-
-### Parsers
-
-* [SANY Syntactic Analyzer](https://github.com/tlaplus/tlaplus/tree/master/tlatools/org.lamport.tlatools/src/tla2sany)
-* [TLAPS](https://github.com/tlaplus/tlapm)
-* [tree-sitter-tlaplus](https://github.com/tlaplus-community/tree-sitter-tlaplus): A tree-sitter grammar for TLA⁺ and PlusCal 
-* [A collection of Python tools for working with TLA+ specifications](https://github.com/johnyf/tlapy)
 
 ## TLA+ blog posts and articles
 
