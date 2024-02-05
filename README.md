@@ -71,6 +71,13 @@ TLA+ is a formal specification and verification language to help engineers desig
 * [Practical TLA+](https://www.apress.com/gp/book/9781484238288)
 * [TLA+ in Practice and Theory](https://pron.github.io/posts/tlaplus_part1) (freely available)
 
+### Parsers
+
+* [SANY Syntactic Analyzer](https://github.com/tlaplus/tlaplus/tree/master/tlatools/org.lamport.tlatools/src/tla2sany)
+* [TLAPS](https://github.com/tlaplus/tlapm)
+* [tree-sitter-tlaplus](https://github.com/tlaplus-community/tree-sitter-tlaplus): A tree-sitter grammar for TLA⁺ and PlusCal 
+* [A collection of Python tools for working with TLA+ specifications](https://github.com/johnyf/tlapy)
+
 ## TLA+ blog posts and articles
 
 
