@@ -20,12 +20,11 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 ## WebSites
 
-* Homepage: http://www.tlapl.us  (https://lamport.azurewebsites.net/tla/tla.html)
-* TLA+ Project: https://project.tlapl.us  (https://github.com/tlaplus)
+* Homepage: http://www.tlapl.us (https://lamport.azurewebsites.net/tla/tla.html)
+* TLA+ Project: https://project.tlapl.us (https://github.com/tlaplus)
 * TLA+ Community Modules: https://modules.tlapl.us/ (https://github.com/tlaplus/CommunityModules)
 * TLA+ Examples: https://examples.tlapl.us  (https://github.com/tlaplus/Examples)
-* Learn TLA+ (PlusCal): https://learntla.com/ (https://learntla.com/)
-* News Aggregator: https://wall.tlapl.us
+* Learn TLA+ (PlusCal): https://learntla.com/
 
 ## Discussions
 
@@ -52,8 +51,8 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 ### IDEs
 
-* Toolbox: https://tools.tlapl.us (https://github.com/tlaplus/tlaplus)
-* VSCode-extension: https://github.com/alygin/vscode-tlaplus
+* VSCode-extension: https://github.com/tlaplus/vscode-tlaplus
+* Toolbox (Eclipse based IDE): https://tools.tlapl.us (https://github.com/tlaplus/tlaplus)
 * Jupyter notebook: https://github.com/kelvich/tlaplus_jupyter
 * Emacs mode: https://github.com/ratish-punnoose/tla-mode
 * Another Emacs mode: https://git.sdf.org/bch/tlamode/
