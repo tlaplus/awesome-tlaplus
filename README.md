@@ -25,6 +25,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 * TLA+ Community Modules: https://modules.tlapl.us/ (https://github.com/tlaplus/CommunityModules)
 * TLA+ Examples: https://examples.tlapl.us  (https://github.com/tlaplus/Examples)
 * Learn TLA+ (PlusCal): https://learntla.com/
+* Writing Specs: https://writingspecs.com/ — Beginner-friendly intro to writing specs and TLA+ concepts; WIP, not comprehensive.
 
 ## Discussions
 
