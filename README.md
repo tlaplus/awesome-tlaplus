@@ -53,7 +53,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 ### IDEs
 
 * VSCode-extension: https://github.com/tlaplus/vscode-tlaplus
-* Toolbox (Eclipse based IDE): https://tools.tlapl.us (https://github.com/tlaplus/tlaplus)
+* Toolbox (Eclipse based IDE): https://tools.tlapl.us (https://github.com/tlaplus/tlaplus) (no longer maintained)
 * Jupyter notebook: https://github.com/kelvich/tlaplus_jupyter
 * Emacs mode: https://github.com/ratish-punnoose/tla-mode
 * Another Emacs mode: https://git.sdf.org/bch/tlamode/
