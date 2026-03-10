@@ -150,10 +150,33 @@ TLA+ is a formal specification and verification language to help engineers desig
 
 ## TLA+ Video Resources
 
+Most videos are hosted on the [TLA+ Foundation YouTube channel](https://www.youtube.com/@TLAplusFoundation).
+
+### Courses
+
 * [The TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
 * [Dr TLA+](https://github.com/tlaplus/DrTLAPlus)
+
+### Conference & Community Event Recordings
+
+* [TLA+ Community Event 2025](https://www.youtube.com/playlist?list=PLWLcqZLzY8u_Go9-3uEL1MzJMNEJlHYvQ)
+* [TLA+ Conf 2024](https://www.youtube.com/playlist?list=PLWLcqZLzY8u9d78Ey5KUCMFLgNgYoFgCX)
+* [TLA+ Conf 2022](https://www.youtube.com/playlist?list=PLWLcqZLzY8u8jqzxEa-U_Q3KQhtxUJPpC)
+* [TLA+ Conf 2021](https://www.youtube.com/playlist?list=PLWLcqZLzY8u9kzmWgs3HPRm3Cw85LTpD2)
+* [TLA+ Community Event 2020](https://www.youtube.com/playlist?list=PLWLcqZLzY8u8EA8UlsZ5xKMvtUoeGr5R_)
+* [TLA+ Conf 2019](https://www.youtube.com/playlist?list=PLWLcqZLzY8u_Osnz-YPOVrptG1ys73OkR)
 * [TLA+ Community Meeting 2018](https://www.youtube.com/playlist?list=PLWLcqZLzY8u_3mDg2cHmduA5wl4J6hNX2)
-* [TLA+ conf 2019](https://www.youtube.com/playlist?list=PLWLcqZLzY8u_Osnz-YPOVrptG1ys73OkR)
+
+### Topic Playlists
+
+* [GenAI/LLM-accelerated TLA+](https://www.youtube.com/playlist?list=PLWLcqZLzY8u8C4dz41PglOOXncqr0c0du)
+* [TLA+ Debugger](https://www.youtube.com/playlist?list=PLWLcqZLzY8u9crK5PwTmEyBjgzHCotT60)
+* [TLA+ Codespaces](https://www.youtube.com/playlist?list=PLWLcqZLzY8u_oWnCTGC77OgZlWaab06Gt)
+* [The TLA+ Toolbox](https://www.youtube.com/playlist?list=PLWLcqZLzY8u8-g47T_zHiK2zvPpIohRsA)
+* [Random TLA+](https://www.youtube.com/playlist?list=PLWLcqZLzY8u_ix-R-pikzj-4qTjJbqAil)
+
+### Standalone Talks
+
 * [Debugging software designs using testable pseudo-code (TLA+)](https://www.youtube.com/watch?v=LAEXHua4MQQ)
 * [The practice and Theory of TLA+](https://www.youtube.com/watch?v=15uy9Ga-14I)
 * [Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8)
