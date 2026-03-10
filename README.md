@@ -101,6 +101,11 @@ TLA+ is a formal specification and verification language to help engineers desig
 | [Modeling Streamlet in TLA+](http://muratbuffalo.blogspot.com/2020/07/modeling-streamlet-in-tla.html) | A PlusCal spec of a crash fault-tolerant variant of the Streamlet blockchain protocol. |
 | [Understanding Apache Hudi's Consistency Model](https://hudi.apache.org/blog/2024/04/24/understanding-apache-hudi-consistency-model-part-3) | TLA+ specification and model checking of Hudi's consistency model |
 | [Using TLA+ in the Real World to Understand a Glibc Bug](https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/) | Lifting code to the specification level to study a complex concurrency bug. |
+| [Formal Specification for Authorization: Clarity Before Implementation](https://blog.gchinis.com/posts/2025/11/formal-specification-for-authorization/) | Applying TLA+ for better describing authorization requirements for systems. |
+| [Multi-Grained Specifications for Distributed System Model Checking and Verification](https://muratbuffalo.blogspot.com/2025/04/multi-grained-specifications-for.html) | Review of multi-grained specifications combining high-level protocol models with fine-grained implementation details. |
+| [A Tale of Two Refinements](https://medium.com/@polyglot_factotum/a-tale-of-two-refinements-f6cdb2a3e4d8) | Generating Rust implementations from TLA+ specs using LLMs, building a concurrent system through stepwise refinement. |
+| [TLA+ in support of AI code generation](https://medium.com/@polyglot_factotum/tla-in-support-of-ai-code-generation-9086fc9715c4) | Using TLA+ specs as prompts for AI agent-mode code generation, demonstrating that the AI preserves specified algorithm correctness. |
+| [Verified Spec Transpilation with Claude](https://will62794.github.io/verification/llms/compilation/2026/01/20/bespoke-compilation.html) | LLM-based verified transpilation from TLA+ specifications. |
 | [tla-specs](https://github.com/Alexander-N/tla-specs) | Collection of documented TLA+ explorations. |
 
 ## Real-world specs (not part of [TLA+ Examples](https://github.com/tlaplus/examples))
