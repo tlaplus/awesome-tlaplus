@@ -219,12 +219,12 @@ Most videos are hosted on the [TLA+ Foundation YouTube channel](https://www.yout
 
 ## (University) courses teaching (with) TLA+
 
-* [EECS4315 Mission-Critical Systems (Winter 2023 - Section Z)](https://www.eecs.yorku.ca/~jackie/teaching/lectures/index.html#EECS4315_W23)
-* [SUNY Buffalo: CSE 4/586 Distributed Systems](https://cse.buffalo.edu/~demirbas/course.pdf)  ([Notes](http://muratbuffalo.blogspot.com/2015/01/my-experience-with-using-tla-in.html))
+* [York University: EECS4315 Mission-Critical Systems (Winter 2025 - Section Z)](https://www.eecs.yorku.ca/~wangcw/teaching/lectures/index.html#EECS4315_W25)
+* [SUNY Buffalo: CSE 4/586 Distributed Systems](http://muratbuffalo.blogspot.com/2015/01/my-experience-with-using-tla-in.html) (course page no longer available; Murat Demirbas's blog post on using TLA+ in teaching remains)
 * [Portland State: CS410/510 Practical Specification and Verification](https://web.cecs.pdx.edu/~apt/cs510spec/)
 * [University of Wellington: SWEN421 - Formal Software Engineering](https://ecs.wgtn.ac.nz/Courses/SWEN421_2020T1/CourseOutline)
 * [Bordeaux INP: IF311 Formal Software Design](http://herbrete.vvv.enseirb-matmeca.fr/IF311/)
-* [TU Kaiserslautern: Programming Distributed Systems](https://pl.cs.uni-kl.de/homepage/de/teaching/ss19/progdist/)
+* [RPTU Kaiserslautern-Landau: Programming Distributed Systems](https://pl.cs.uni-kl.de/homepage/de/teaching/ss22/progdist/) (formerly TU Kaiserslautern)
 * [University of Iowa: CS5620f15 Distributed Systems and Algorithms](https://weblog.cs.uiowa.edu/cs5620f15/)
 * [University of Tartu: Systems Modelling](https://courses.cs.ut.ee/2019/SM/)
 * [University of Colorado: Distributed Systems Verification](https://gowthamk.github.io/csci7000_s21/)
