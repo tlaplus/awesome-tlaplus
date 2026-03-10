@@ -51,6 +51,10 @@ TLA+ is a formal specification and verification language to help engineers desig
 * TLAPM: https://proofs.tlapl.us (https://github.com/tlaplus/tlapm)
 * Apalache: https://apalache.informal.systems/
 
+#### Experimental
+
+* tla-rs: https://github.com/fabracht/tla-rs
+
 ### IDEs
 
 * VSCode-extension: https://github.com/tlaplus/vscode-tlaplus
@@ -59,9 +63,12 @@ TLA+ is a formal specification and verification language to help engineers desig
 * Emacs mode: https://github.com/ratish-punnoose/tla-mode
 * Another Emacs mode: https://git.sdf.org/bch/tlamode/
 * Intellij IDEA plugin: https://github.com/ocadaruma/tlaplus-intellij-plugin
+* Web-based tool for exploring, visualizing, and sharing formal specs: https://github.com/will62794/spectacle
+* Web-based learning platform: https://learning.tlapl.us
 
 ### Misc
 
+* Specula: https://github.com/specula-org/Specula/
 * Better-comments (VSCode): https://github.com/alygin/better-comments
 * TLC command-line wrapper: https://github.com/pmer/tla-bin
 
