@@ -229,3 +229,8 @@ Most videos are hosted on the [TLA+ Foundation YouTube channel](https://www.yout
 * [University of Tartu: Systems Modelling](https://courses.cs.ut.ee/2019/SM/)
 * [University of Colorado: Distributed Systems Verification](https://gowthamk.github.io/csci7000_s21/)
 * [University of California, San Diego: CSE 128 Spring 2005 Concurrency](https://cseweb.ucsd.edu/classes/sp05/cse128/)
+* [Loyola University Chicago: COMP 335/435 Formal Methods in Software Engineering](https://lucformalmethodscourse.github.io/) (active, uses TLA+ alongside Java/jqwik)
+* [ISAE-SUPAERO: FITR304 Formal Verification and Validation](https://personnel.isae-supaero.fr/christophe-garion/teaching-activities-and-courses.html?lang=fr#outil_sommaire_1) (MSc, uses TLA+ alongside Frama-C/SPARK)
+* [Universidad Nacional de Rosario: Ingeniería de Software 1](https://www.fceia.unr.edu.ar/asist/index.html) (uses TLA+ and Z)
+* [Åbo Akademi University: Software Quality](https://link.springer.com/chapter/10.1007/978-3-030-85347-1_38) (MSc, uses TLA+ alongside Dafny/Rodin)
+* [TLA+ Foundation (formerly Microsoft Research): TLA+ Workshop EWD998](https://github.com/tlaplus-workshops/ewd998) (currently not taught; teaching material available under a permissive license)
