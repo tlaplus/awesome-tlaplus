@@ -159,6 +159,7 @@ TLA+ is a formal specification and verification language to help engineers desig
 | [Just-in-Time Paxos](https://github.com/kuujo/just-in-time-paxos) | TLA+ specification of an experimental consensus protocol that relies on high-precision clock synchronization to order proposals | |
 | [Spire Consensus](https://github.com/obsidiandynamics/spire-tla) | TLA+ specification and TLAPS machine-verifiable proof of the Spire single-value and Spanning Privilege (SP) multi-value consensus algorithms | [Spire pre-print (TechRxiv)](https://www.techrxiv.org/articles/preprint/Spire_A_Cooperative_Phase-Symmetric_Solution_to_Distributed_Consensus/13531136) |
 | [zig-rcsp](https://github.com/yrashk/zig-rcsp/blob/master/rcsp.tla) | TLA+ specification of a reference-counted shared pointer algorithm for Zig, verifying correctness of concurrent acquire/release operations | |
+| [Lotti](https://github.com/matthiasn/lotti/tree/main/specs/tla) | TLA+ specifications of a local-first journaling app, covering its end-to-end encrypted multi-device sync log, crash recovery of its agent runtime, and concurrent confirmation of agent suggestions; model-checked with TLC nightly under crashes, message loss and reordering | [Specs README](https://github.com/matthiasn/lotti/blob/main/specs/tla/README.md) |
 
 ## TLA+ Video Resources
 
